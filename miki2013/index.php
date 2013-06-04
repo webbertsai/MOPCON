@@ -48,7 +48,8 @@
   })();
 </script>
   </head>
-  Hello World!
+  <body>
+  </body>
 <?php
 ?>
 </html>
