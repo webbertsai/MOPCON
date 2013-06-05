@@ -1,0 +1,41 @@
+
+body {
+  #logoTitle {
+    position: relative;
+    top: 295px;
+  }
+  #logoYear {
+    position: relative;
+    top: 358px;
+    left: -93px;
+    font-size: 48px;
+  }
+  .logoText {
+    height: auto;
+    width: auto;
+    float: none;
+    clear: both;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-weight: 800;
+    font-size: 72px;
+    background-color: transparent;
+    color: transparent;
+  }
+  .logoText span {
+    //color: #ff9300;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-clip: text;
+    text-fill-color: transparent;
+    text-stroke: 5px #BF0A30;
+    //text-shadow: white 3px 5px 5px;
+    //background-color: -webkit-linear-gradient(orange, white);
+    background-image: url(http://test.mopcon.org/img/colour.jpg);
+    //background-position-x: -0.24em;
+  }
+
+  .logoImage {
+    margin-top: -24px;
+  }
+}
